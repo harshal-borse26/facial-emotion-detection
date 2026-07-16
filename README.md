@@ -162,26 +162,6 @@ AI-Facial-Emotion-Detection
 
 ---
 
-# 📸 Screenshots
-
-## 🏠 Home Page
-
-![Home Page](screenshots/home-page.png)
-
----
-
-## Upload Page
-
-![Upload Page](screenshots/upload-page.png)
-
----
-
-## Result Page
-
-![Result Page](screenshots/results-page.png)
-
----
-
 
 # 📊 Detected Attributes
 
